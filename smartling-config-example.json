@@ -66,6 +66,7 @@
          {
            "type"                      : "javaProperties",
            "pathRegex"                 : ".*.properties",
+             "authorizeContent"          : false,
            "translationPathExpression" : "Test_Translated_${locale}_${originalFile.name}",
            "smartlingDirectives"       : [
                 "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
