@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//DITAPRIME FOR VOLTA TRUCKS//DTD IXIA DITA Composite//EN" "composite-topics-for-ixiasoft.dtd">
+<concept id="oln1683280171125" xml:lang="de-de">
+    <title ixia_locid="1">So verwenden Sie diese Betriebsanleitung</title>
+    <shortdesc ixia_locid="2">Informationen zur Verwendung dieser digitalen Betriebsanleitung</shortdesc>
+    <conbody>
+        <p ixia_locid="3" otherprops="operators_manual">Die Betriebsanleitung für den Volta Zero wird ausschließlich in digitaler Form zur Verfügung gestellt. Sie kann sowohl auf Desktop-Computern als auch auf Mobilgeräten angezeigt werden, ohne dass die Webadresse geändert werden muss.</p>
+        <p ixia_locid="4" otherprops="recovery_manual">Der Pannenhilfe-Leitfaden für den Volta Zero wird ausschließlich in digitaler Form zur Verfügung gestellt. Er kann sowohl auf Desktop-Computern als auch auf Mobilgeräten angezeigt werden, ohne dass die Webadresse geändert werden muss.</p>
+        <p ixia_locid="5">Die digitale Anleitung ändert ihre Größe dynamisch je nach der Monitorgröße und Ausrichtung des genutzten Anzeigegerätes. Der Funktionsumfang von Menüs, Suche, Links und Grafiken bleibt vollständig erhalten.</p>
+        <note id="note_z11_j52_jxb" ixia_locid="6">
+            <p ixia_locid="7">Untenstehend finden Sie weitere Aspekte, die es beim Anzeigen der digitalen Anleitung auf einem Mobilgerät zu berücksichtigen gibt.</p>
+        </note>
+        <note id="note_hht_rv2_jxb" ixia_locid="8">
+            <p ixia_locid="9">Mithilfe der Vorwärts- und Rückwärtsschaltflächen des Webbrowsers können Sie zwischen zuvor besuchten Themen wechseln, nicht jedoch zwischen Themenabschnitten. Möglicherweise müssen Sie mehrmals eine Auswahl treffen, bevor die Änderung erfolgt.</p>
+        </note>
+        <section id="section_wcf_cf2_jxb" ixia_locid="10">
+            <title ixia_locid="11">Ein Thema in der Anleitung finden</title>
+            <fig id="fig_u2h_y2f_jxb" ixia_locid="12">
+                <image id="image_ak3_4ff_jxb" ixia_locid="13" keyref="aiw1683292596761"/>
+            </fig>
+            <p ixia_locid="14">Beim ersten Öffnen der digitalen Anleitung wird Ihnen die Startseite mit zwei Optionen angezeigt, über die Sie zu den gewünschten Informationen gelangen.</p>
+            <ul id="ul_zjd_nf2_jxb">
+                <li ixia_locid="15">
+                    <p ixia_locid="16">Das Hauptmenü (1) – Dies ist beim Anzeigen des Handbuchs dauerhaft verfügbar.</p>
+                </li>
+                <li ixia_locid="17">
+                    <p ixia_locid="18">Das Navigationsmenü der Startseite (2) – Dies ist verfügbar, bis das erste Thema ausgewählt wird, dann wird das Thema präsentiert.</p>
+                </li>
+            </ul>
+            <fig id="fig_mlr_hgf_jxb" ixia_locid="19">
+                <image id="image_ekj_4gf_jxb" ixia_locid="20" keyref="wwy1683293340472"/>
+            </fig>
+            <p ixia_locid="21">Das Navigationsmenü der Startseite (2) wird durch den Navigationsbaum (3) ersetzt, wenn ein Punkt ausgewählt wird, und der Pfad (4) wird angezeigt. So können Sie zur Navigation einfach den jeweiligen Punkt im Navigationsbaum oder Pfad auswählen, ohne zur Startseite zurückkehren oder die Suchleiste verwenden zu müssen.</p>
+            <p ixia_locid="22">Sie können jederzeit über die Suchleiste (5) ein Thema mithilfe eines Wortes oder eines Ausdrucks finden oder auf das Inhaltsverzeichnis (6) zugreifen.</p>
+            <note id="note_ldw_22f_jxb" ixia_locid="96">
+                <p ixia_locid="24">Wenn beim Navigieren mithilfe des Navigationsbaums an der aktuell ausgewählten Position ein Thema angezeigt werden kann, wird sowohl im Pfad als auch im Navigationsbaum der Titel des Themas fett gedruckt angezeigt. </p>
+            </note>
+            <note id="note_fz3_dng_kxb" ixia_locid="97">
+                <p ixia_locid="25">Das ausgewählte Thema ist auf einem Mobilgerät möglicherweise erst dann sichtbar, wenn der Navigationsbaum geschlossen wird oder Sie auf der Seite nach unten scrollen.</p>
+            </note>
+        </section>
+        <section id="section_c5r_2t2_jxb" ixia_locid="26">
+            <title ixia_locid="27">Navigation innerhalb eines Themas</title>
+            <fig id="fig_dpj_rff_jxb" ixia_locid="28">
+                <image id="image_yyl_5ff_jxb" ixia_locid="29" keyref="shk1683292990854"/>
+            </fig>
+            <note id="note_pvs_h52_jxb" ixia_locid="30">
+                <p ixia_locid="31">Durch Auswahl eines Pfeilsymbols (7) werden alle Navigationsmenüs oder Abschnitte innerhalb des Themas geöffnet oder geschlossen.</p>
+                <p ixia_locid="32">Dies wird in der obigen Abbildung veranschaulicht. </p>
+                <p ixia_locid="33">Alternativ können Sie durch Drücken der beiden übereinander angeordneten vertikalen Pfeile (8) alle Abschnitte mit einer einzigen Auswahl öffnen und schließen.</p>
+            </note>
+            <p ixia_locid="34">Zur Navigation innerhalb eines Themas können Sie wie auf jeder anderen Website scrollen oder zu Abschnitten innerhalb des Themas springen, wenn diese verfügbar sind.</p>
+            <p ixia_locid="35">Wählen Sie einen beliebigen Untertitel unter <uicontrol ixia_locid="36">Auf dieser Seite:</uicontrol> (9) aus, um zum gewünschten Abschnitt zu springen. </p>
+            <p ixia_locid="37">Wenn ein Abschnitt über ein Pfeilsymbol (7) geschlossen wurde, wird er automatisch wieder geöffnet, wenn er aus der Liste <uicontrol ixia_locid="38">Auf dieser Seite:</uicontrol> ausgewählt wird.</p>
+        </section>
+        <section id="section_tmb_xv2_jxb" ixia_locid="39">
+            <title ixia_locid="40">Zwischen Themen wechseln</title>
+            <p ixia_locid="41">Verlinkungen zwischen Themen werden durch eine fett gedruckte blaue Farbe (10) hervorgehoben und können ausgewählt werden, um ein anderes Thema in der digitalen Anleitung anzuzeigen.</p>
+            <note id="note_dvm_yv2_jxb" ixia_locid="42">
+                <p ixia_locid="43">Mithilfe der Vorwärts- und Rückwärtsschaltflächen des Webbrowsers können Sie zwischen zuvor besuchten Themen wechseln, nicht jedoch zwischen Themenabschnitten. Möglicherweise müssen Sie mehrmals eine Auswahl über die Schaltflächen treffen, bevor die Änderung erfolgt.</p>
+            </note>
+        </section>
+        <section id="section_mxx_ss2_jxb" ixia_locid="44">
+            <title ixia_locid="45">Zur Startseite zurückkehren</title>
+            <fig id="fig_a55_wff_jxb" ixia_locid="46">
+                <image id="image_ml5_zff_jxb" ixia_locid="47" keyref="acd1683293084310"/>
+            </fig>
+            <p ixia_locid="48">Um zur Startseite zurückzukehren, wählen Sie entweder <uicontrol ixia_locid="49">Startseite</uicontrol> über den Pfad (11) oder den Titel der digitalen Anleitung unter dem Markensymbol (12) aus.</p>
+        </section>
+        <section id="section_adq_hw2_jxb" ixia_locid="50">
+            <title ixia_locid="51">Suchen</title>
+            <fig id="fig_phj_bgf_jxb" ixia_locid="52">
+                <image id="image_ty2_cgf_jxb" ixia_locid="53" keyref="dsg1683293126776"/>
+            </fig>
+            <p ixia_locid="54">Über die Suchleiste (5) kann der Fahrer nach Stichwörtern und Ausdrücken in der digitalen Anleitung suchen. Dabei bewertet ein Sterne-Ranking-System (13), wie genau das Suchergebnis der Suchanfrage entspricht.</p>
+            <p ixia_locid="55">Das Suchergebnis kann auch einen Untertitel (14) enthalten, der angibt, aus welchem Abschnitt der Anleitung das Suchergebnis stammt.</p>
+            <note id="note_ecb_wy2_jxb" ixia_locid="56">
+                <p ixia_locid="57">Die Suchleiste kann jederzeit genutzt werden, sofern nicht gerade die Inhaltsverzeichnisfunktion genutzt wird.</p>
+            </note>
+            <note id="note_sxr_yw2_jxb" ixia_locid="58">
+                <p ixia_locid="59">Wenn bei der Suche kein passendes Ergebnis gefunden wird, wird die Verwendung der Inhaltsverzeichnisfunktion empfohlen.</p>
+                <p ixia_locid="60">Wenn Ihnen auch das nicht weiterhilft, wenden Sie sich bitte an Volta Trucks, um Hilfe zu erhalten.</p>
+            </note>
+        </section>
+        <section id="section_nds_kx2_jxb" ixia_locid="61">
+            <title ixia_locid="62">Inhaltsverzeichnis</title>
+            <fig id="fig_i2s_cgf_jxb" ixia_locid="63">
+                <image id="image_zth_fgf_jxb" ixia_locid="64" keyref="hlg1683293181369"/>
+            </fig>
+            <p ixia_locid="65">Sie können jederzeit das Inhaltsverzeichnis öffnen, indem Sie das <image id="image_qnw_yy2_jxb" ixia_locid="66" keyref="lya1683289869849"/> entsprechende Symbol auswählen.</p>
+            <p ixia_locid="67">Zum Navigieren im Inhaltsverzeichnis können Sie wie auf jeder anderen Website scrollen. Sie können auch zu Abschnitten im Inhaltsverzeichnis springen, indem Sie oben auf der Seite eine Zahl oder einen Buchstaben auswählen. (15)</p>
+            <p ixia_locid="68">Sobald der Titel des Themas im Inhaltsverzeichnis gefunden wurde, wählen Sie
+ <uicontrol ixia_locid="69">[1]</uicontrol> neben dem Titel (16) aus, um das Thema anzuzeigen.</p>
+            <note id="note_kcl_kz2_jxb" ixia_locid="70">
+                <p ixia_locid="71">Für manche Themen gibt es mehrere Inhaltsverzeichnisbegriffe, die alle auf dasselbe Thema verweisen.</p>
+                <p ixia_locid="72">Dies ist gewollt und soll die Wahrscheinlichkeit erhöhen, dass das gewünschte Thema gefunden wird. Gleichzeitig verbessert es die Suchfunktion, wenn ein ähnlicher Begriff für dasselbe Thema oder dieselbe Fahrzeugfunktion bekannt ist.</p>
+                <p ixia_locid="73">Beispielsweise verweisen <uicontrol ixia_locid="74">12-V-Steckdose</uicontrol> und <uicontrol ixia_locid="75">Kabinenstrom, 12 V</uicontrol> beide auf dasselbe Thema.</p>
+            </note>
+            <note id="note_q41_5df_jxb" ixia_locid="76">
+                <p ixia_locid="77">Beim Anzeigen der digitalen Anleitung auf einem Mobilgerät muss das Hauptmenü geöffnet werden, um das Inhaltsverzeichnis öffnen zu können. Siehe weitere Informationen unten.</p>
+            </note>
+        </section>
+        <section id="section_bt2_yz2_jxb" ixia_locid="78">
+            <title ixia_locid="79">Anzeigen von Grafiken</title>
+            <p ixia_locid="80">Die Grafiken der Fahrzeug- und Fahrerschnittstellenmonitore sind auf eine begrenzte Größe eingestellt, damit die Grafik und der zugehörigen schriftlichen Inhalt gleichzeitig angezeigt werden können.</p>
+            <p ixia_locid="81">Jede Grafik kann ausgewählt werden, um sie zur besseren Übersichtlichkeit in einer Vollbildansicht zu öffnen, wenn dies gewünscht wird.</p>
+            <p ixia_locid="82">Wählen Sie <image id="image_pjx_q1f_jxb" ixia_locid="83" keyref="asw1652192786419"/> rechts oben aus, um die Vollbildansicht zu schließen.</p>
+            <note id="note_ugj_f1f_jxb" ixia_locid="84">
+                <p ixia_locid="85">Es wird empfohlen, ein Mobilgerät ins Querformat zu drehen, um bestimmte Grafiken im Vollbildmodus anzuzeigen, z. B. Grafiken des Fahrzeugs und der mittleren Fahrerschnittstelle.</p>
+            </note>
+        </section>
+        <section id="section_y1m_bbf_jxb" ixia_locid="86">
+            <title ixia_locid="87">Navigation auf einem Mobilgerät</title>
+            <fig id="fig_q2b_2ff_jxb" ixia_locid="88">
+                <image id="image_o2v_2ff_jxb" ixia_locid="89" keyref="gtq1683292716005"/>
+            </fig>
+            <p ixia_locid="90">Das Hauptmenü (im Bild oben ausgeblendet) und der Navigationsbaum (3) können jederzeit durch Auswahl des oberen bzw. unteren Symbols <image id="image_wk5_kcf_jxb" ixia_locid="91" keyref="jti1683291450279"/> geöffnet und geschlossen werden.</p>
+            <p ixia_locid="92">Standardmäßig bleibt der Navigationsbaum während der Navigation geöffnet.</p>
+            <note id="note_xww_12f_jxb" ixia_locid="93">
+                <p ixia_locid="94">Wenn beim Navigieren mithilfe des Navigationsbaums an der aktuell ausgewählten Position ein Thema angezeigt werden kann, wird sowohl im Pfad als auch im Navigationsbaum der Titel des Themas fett gedruckt angezeigt. </p>
+                <p ixia_locid="95">Das geöffnete Thema ist auf einem Mobilgerät möglicherweise erst dann sichtbar, wenn der Navigationsbaum geschlossen wird oder Sie auf der Seite nach unten scrollen.</p>
+            </note>
+        </section>
+    </conbody>
+</concept>
