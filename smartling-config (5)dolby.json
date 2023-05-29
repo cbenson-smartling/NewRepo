@@ -8,10 +8,6 @@
          {
              "smartling" : "zh-CN",
              "application" : "zh-Hans"
-         },
-         {
-             "smartling" : "zh-TW",
-             "application" : "zh-Hant"
          }
      ],
 
