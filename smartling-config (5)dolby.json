@@ -73,27 +73,11 @@
              "pathRegex"                 : "web\\/messages\\/en/(?<path>.*)\\.properties",
              "translationPathExpression" : "web/messages/${locale}/${path}.${originalFile.extension}",
              "translationCommitMessage"  : "Task TRN-18 translate ${originalFile.name} to ${locale}\n${translatedFile.fullName}"
-         },
+         }
 
          // Translate all properties files from /msg folder and put translations to a /msg sub-folder that has the same name as translated locale.
          // Two additional Smartling directives are provided.
          // Also files will be submitted only for zh-CN locale
-        {
-           "type"                      : "javaProperties",
-           "pathRegex"                 : ".*test.properties",
-           "translationPathExpression" : "Translated_${locale}_${originalFile.name}",
-           "smartlingDirectives"       : [
-                "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
-                "smartling.placeholder_format = JAVA",
-                "smartling.variants_enabled = true"
-           ],
 
-           "locales": [
-               {
-                   "smartling" : "zh-CN",
-                   "application" : "zh-CN"
-               }
-           ]
-        }
      ]
 }
