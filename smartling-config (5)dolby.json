@@ -7,7 +7,7 @@
     "locales": [
          {
              "smartling" : "zh-CN",
-             "application" : "zh-Hans"
+             "application" : "zh-CN"
          }
      ],
 
@@ -55,7 +55,7 @@
          {
             "type"                      : "xml",
             "authorizeContent"          : false,
-            "pathRegex"                 : "messages\\/.*_en\\.xml",
+            "pathRegex"                 : ".*.xml",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
          },
 
